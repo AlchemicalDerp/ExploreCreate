@@ -1,0 +1,13 @@
+name = "Treeplacer - Terralith Addon - Neoforge Port"
+filename = "treeplacer-terralith-compatibility-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUqupoSg/versions/J0n7gdhl/treeplacer-terralith-compatibility-1.2.0.jar"
+hash-format = "sha512"
+hash = "d383138080d57b82810801c8d42aff5e565acbafa0c009300ed641fd2806a56074e70e26f7a17cb0a055a61db6c88562916d4539c33829de7ef04f605954cb28"
+
+[update]
+[update.modrinth]
+mod-id = "CUqupoSg"
+version = "J0n7gdhl"

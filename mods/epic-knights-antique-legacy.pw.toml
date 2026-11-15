@@ -1,0 +1,13 @@
+name = "Epic Knights: Antique Legacy"
+filename = "epic-knights-antique-legacy-1.21.1-neoforge-1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xODj7fc3/versions/OQOu8iBP/epic-knights-antique-legacy-1.21.1-neoforge-1.14.jar"
+hash-format = "sha512"
+hash = "48985f397c6e3657abbf0f95abd327d1b0fe4e687b656a2f296074d69981d46056122b7ab8c97cf3642a12cac65d922b1153908ddc0ebdfbcc1fa93cfb05e5b2"
+
+[update]
+[update.modrinth]
+mod-id = "xODj7fc3"
+version = "OQOu8iBP"

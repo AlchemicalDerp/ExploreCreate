@@ -1,0 +1,13 @@
+name = "Epic Knights: Slavic Armory"
+filename = "[1.21.1-neoforge]-Epic-Knights-Slavic-Armory-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tdA8M9rp/versions/MH4PuhNU/%5B1.21.1-neoforge%5D-Epic-Knights-Slavic-Armory-2.4.jar"
+hash-format = "sha512"
+hash = "3a3848d8af950ace12d860095080c3c91792dbd7979d4776005757c6f29a29c1edca879e1e71329f0f542ab99cd76d432df1a467d26b46675acdf61755b7a648"
+
+[update]
+[update.modrinth]
+mod-id = "tdA8M9rp"
+version = "MH4PuhNU"

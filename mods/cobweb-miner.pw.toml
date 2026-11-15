@@ -1,0 +1,13 @@
+name = "Cobweb Miner"
+filename = "cobweb-miner-1.21-26.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qIWyGaHS/versions/qo6SN6Ui/cobweb-miner-1.21-26.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "d00288f2c9770d02b031c3f322bfd9725944889e7761b3794d31c7c42b7b86f7d28ce13eae64559e97574c24fd9469ab88478caa286e53b0e84b2c873bca7d9e"
+
+[update]
+[update.modrinth]
+mod-id = "qIWyGaHS"
+version = "qo6SN6Ui"
