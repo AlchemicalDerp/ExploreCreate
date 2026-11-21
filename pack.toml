@@ -1,12 +1,12 @@
 name = "Explore Create"
 author = "TheSkyDude"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "25f2c0efa903a645ed38e1af21f26de1376f71393ffef2d5fbd5e8d9f6b829f8"
+hash = "2a2f804dd966f6c860cf706cb970af08310a1b83f5320216f79fada884992c8e"
 
 [versions]
 minecraft = "1.21.1"
